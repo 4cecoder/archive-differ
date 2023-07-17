@@ -1,6 +1,8 @@
 # Archive Differ [![Go](https://github.com/4cecoder/archive-differ/actions/workflows/go.yml/badge.svg)](https://github.com/4cecoder/archive-differ/actions/workflows/go.yml)
 
-Archive Differ is a CLI application developed in Go that helps in handling operations with tar archives. This tool allows you to open tar archives, search for `mets.xml` files in the archive, and compare the differences in `mets.xml` files between different archives.
+Archive Differ is a CLI application developed in Go that helps in handling operations with tar archives. 
+
+This tool allows you to open tar archives, search for `mets.xml` files in the archive, and compare the differences in `mets.xml` files between different archives.
 
 ## Getting Started
 
